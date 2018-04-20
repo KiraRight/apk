@@ -1,0 +1,134 @@
+﻿  Source.cpp
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): error C2065: int8: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(31): error C2065: int9: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(31): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(31): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(31): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(31): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(32): error C2065: intA: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(32): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(32): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(32): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(32): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(33): error C2065: intB: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(33): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(33): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(33): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(33): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(34): error C2065: intC: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(34): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(34): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(34): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(34): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(35): error C2065: intD: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(35): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(35): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(35): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(35): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(36): error C2065: intE: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(36): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(36): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(36): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(36): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(37): error C2065: intF: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(37): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(37): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(37): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(37): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(47): error C2065: int70: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(47): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(47): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(47): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(47): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(48): error C2065: int71: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(48): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(48): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(48): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(48): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(49): error C2065: int72: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(49): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(49): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(49): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(49): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(50): error C2065: int73: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(50): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(50): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(50): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(50): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(51): error C2065: int74: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(51): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(51): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(51): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(51): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(52): error C2065: int75: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(52): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(52): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(52): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(52): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(53): error C2065: int76: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(53): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(53): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(53): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(53): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(54): error C2065: int77: необъявленный идентификатор
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(54): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(54): error C2374: interrupt: переопределение; множественная инициализация
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(54): error C2143: синтаксическая ошибка: отсутствие ";" перед "("
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(54): error C2059: синтаксическая ошибка: )
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(57): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(57): error C2086: int interrupt: переопределение
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(57): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "intA8"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(57): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(57): error C3861: int8: идентификатор не найден
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(57): warning C4508: intA8: функция должна возвращать значение; предполагается возвращаемый тип "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(58): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(58): error C2086: int interrupt: переопределение
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(58): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "intA9"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(58): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(58): error C3861: int9: идентификатор не найден
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(58): warning C4508: intA9: функция должна возвращать значение; предполагается возвращаемый тип "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(59): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(59): error C2086: int interrupt: переопределение
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(59): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "intAA"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(59): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(59): error C3861: intA: идентификатор не найден
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(59): warning C4508: intAA: функция должна возвращать значение; предполагается возвращаемый тип "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(60): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(60): error C2086: int interrupt: переопределение
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(60): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "intAB"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(60): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(60): error C3861: intB: идентификатор не найден
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(60): warning C4508: intAB: функция должна возвращать значение; предполагается возвращаемый тип "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(61): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(61): error C2086: int interrupt: переопределение
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(61): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "intAC"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(61): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(61): error C3861: intC: идентификатор не найден
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(61): warning C4508: intAC: функция должна возвращать значение; предполагается возвращаемый тип "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(62): error C2182: interrupt: недопустимое использование типа "void"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(62): error C2086: int interrupt: переопределение
+  c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(30): note:  см. объявление "interrupt"
+c:\users\анастасия\documents\visual studio 2015\projects\apk_lab3\apk_lab3\source.cpp(62): fatal error C1003: число ошибок превышает 100; остановка компиляции
